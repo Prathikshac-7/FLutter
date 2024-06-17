@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter App"),
+        title: Text("Catalog App"),
       ),
       body: Center(
         child: Container(
